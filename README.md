@@ -5,8 +5,8 @@ A simple sorting visualiser to better understand working of diffferent sorting a
 
 
 # Properties:
-Edit speed of sort.
-Change the size of array (number of elements).
-Select the type of sort.
-Reshuffle the array at any time.
-play/pause the sort at any instant of time.
+1. Edit speed of sort.
+2. Change the size of array (number of elements).
+3. Select the type of sort.
+4. Reshuffle the array at any time.
+5. play/pause the sort at any instant of time.
