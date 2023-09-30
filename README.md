@@ -10,3 +10,11 @@ A simple sorting visualiser to better understand working of diffferent sorting a
 3. Select the type of sort.
 4. Reshuffle the array at any time.
 5. play/pause the sort at any instant of time.
+
+# Types of Sorts :
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
